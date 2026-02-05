@@ -1,0 +1,46 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/toi.png",
+      "title": "Times of India(HTML, CSS) with Responsive",
+      "client": "TOI",
+      "slug": "mobile-app-design",
+      "url": "https://amitkumarnayak98.github.io/TOI/"
+    },
+    {
+      "image": "/images/work/work-img-2.jpg",
+      "title": "RoBERTa-Based Voting Ensemble for Sentiment Detection",
+      "client": "",
+      "slug": "python-research-project",
+      "url": "https://www.kaggle.com/code/nyamit2000/notebook552244b6b2"
+    },
+    {
+      "image": "/images/work/ml_chatbot.jpg",
+      "title": "Emotion-Aware Chatbot Design Using LoRA-Finetuned Mistral-7B and RAG",
+      "client": "",
+      "slug": "gradio-template",
+      "url": "https://www.kaggle.com/code/nyamit2000/generator-motor"
+    },
+    {
+      "image": "/images/work/healthcare.jpg",
+      "title": "Health Care ChatBot for Berhampur region",
+      "client": "B.Tech Project",
+      "slug": "gradio-template",
+      "url": "https://huggingface.co/spaces/ny-amit111/gradio-space_v1"
+    },
+    {
+      "image": "/images/work/work-img-5.jpg",
+      "title": "Mobile App Design",
+      "client": "John Honnai",
+      "slug": "mobile-app-design",
+      "url": "https://amitkumarnayak98.github.io/TOI/"
+    },
+    {
+      "image": "/images/work/work-img-6.jpg",
+      "title": "Mug Sticker Designing",
+      "client": "John Honnai",
+      "slug": "mug-sticker-designing",
+      "url": "https://amitkumarnayak98.github.io/TOI/"
+    }
+  ]
+}

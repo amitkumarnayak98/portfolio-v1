@@ -1,0 +1,121 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "amitkunayak567890@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:amitkunayak567890@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 7077 833 608",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+917077833608"
+      },
+      {
+        "type": "website",
+        "label": "www.portfolio_amit.com",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://amitkumarnayak98.github.io/portfolio-v1/"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "github",
+        "icon": "/images/icon/github-logo.png",
+        "link": "https://github.com/amitkumarnayak98"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://linkedin.com/in/amit-kumar-nayak-m2000"
+      },
+      {
+        "platform": "leetcode",
+        "icon": "/images/icon/code.png",
+        "link": "https://leetcode.com/u/5wdtSQ8HIM/"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Secondary School Education (CBSE) · 2015",
+        "description": "Formative years at DAV Public School — Class 10 with a CGPA of 9.6, which helped shape my academic habits."
+      },
+      {
+        "title": "DAV Public School - 2017",
+        "description": "Built on that foundation at DAV Public School — Class 12 with an overall score of 82%, strengthening core knowledge."
+      },
+      {
+        "title": "Bachelor’s Degree (BPUT) · 2018–2022",
+        "description": "Parala Maharaja Engineering College — BPUT (2018–2022). Built a strong engineering foundation through practical projects and collaborative learning; final score 79%."
+      },
+      {
+        "title": "Master’s Degree · 2024–Present",
+        "description": "Silicon University, Bhubaneswar (2024–Present). Immersed in research-led coursework and applied projects, maintaining a CGPA of 8.47."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular",
+        "icon": "/images/home/education-skill/angular.png",
+        "rating": 5
+      },
+      {
+        "name": "React",
+        "icon": "/images/home/education-skill/react.png",
+        "rating": 3
+      },
+      {
+        "name": "TypeScript",
+        "icon": "/images/home/education-skill/typescript-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Java",
+        "icon": "/images/home/education-skill/java-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "SAP",
+        "icon": "/images/home/education-skill/sap-icon_one.svg",
+        "rating": 3
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Dribble",
+        "href": "/"
+      },
+      {
+        "title": "Facebook",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "amitkunayak567890@gmail.com",
+        "link": "mailto:amitkunayak567890@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 7077 833 608",
+        "link": "tel:+917077833608"
+      }
+    ]
+  }
+}
